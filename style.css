@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+} 
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(168, 42, 42);
+    color: white;
+    margin: 0;
+}
+
+
+nav {
+    background-color: aliceblue;
+    margin: 5px;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 50px;
+}
+
+nav a:hover{
+    text-decoration: none;
+    margin: 50px;
+    color: rgb(203, 38, 38);
+} 
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+img{
+   width: 500px;
+   height: 300px;
+     transition: 2s;
+}
+
+
+img:hover{
+   width: 250px;
+   height: 150px;
+  
+}
